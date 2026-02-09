@@ -53,23 +53,41 @@ Interview subject: A student who is experienced in buying and selling ACG goods 
 3. Unclear platform rules leading to a lack of basis when handling disputes.
 4. Too many manual labor when deleting and banning.
 
+
+### Buyers:
+An international student at NYU was interviewed about their experience purchasing secondhand furniture while living off campus. See the full list of their goals/fristrations below:
+
+**Goals / Needs:**
+- Find furniture at a significantly lower price than new items
+- Make sure that items are up to quality and in good condition before buying
+- Opportunities to discover furniture with unique aesthetic/style that cannot be found in typical stores
+- Reduce waste by reusing furniture
+
+**Problems / Frustrations**
+- Difficulty finding specific styles/sizes/colors that match their needs
+- Challenges in transporting bulky items, especially as a student without a car in NYC
+- Lack of warranty if the furniture doesn't meet expectations or breaks quickly
+- Worry about hidden damages that sellers would potentially cover up for a better price
+
 ## Product Vision Statement
 
 A peer-to-peer marketplace where college students can buy, sell, rent, and lent second-hand furniture from one another, creating a safe environment for affordable, eco-friendly furnishings.
 
 ## User Requirements
 
-### Renters: 
-- As a renter, I want to reduce clutter so that my living space feels more comfortable.
-- As a renter, I want to sell or share unused furniture so that it doesn’t go to waste.
-- As a renter, I want to earn extra income from unused items so that I can cover monthly expenses.
-- As a renter, I want to easily remove furniture I no longer need so that moving is less stressful.
-- As a renter, I want to repurpose unused furniture so that I live more sustainably.
-- As a renter, I want a simple way to list unused items so that others can benefit from them.
-- As a renter, I want to downsize my belongings so that my apartment is easier to maintain.
-- As a renter, I want to give away furniture I don’t use so that someone else can make use of it.
-- As a renter, I want to free up storage space so that my apartment feels more organized.
-- As a renter, I want to avoid throwing away usable furniture so that I reduce environmental impact.
+See instructions. Delete this line and place a list of your User Stories here.
+
+### Buyers:
+- As a buyer, I want to filter furniture by size, color, style, etc., so that I can quickly find pieces that fit myself.
+- As a buyer, I want to see clear photos from multiple angles so that I can check the condition before I decide to buy.
+- As a buyer, I want sellers to honestly list any stains, or damage upfront so that I’m not surprised after I get the furniture.
+- As a buyer, I want to read reviews from other buyers about a seller so that I feel confident that I’m buying from someone trustworthy.
+- As a buyer, I want to compare prices with similar items as well as the price of a new item of the same model, so that I know I’m getting a good deal.
+- As a buyer, I want to save or bookmark items I like so that I can come back to them later and compare options.
+- As a buyer, I want the option to arrange delivery or pickup help so that I can get bulky furniture without needing a car.
+- As a buyer, I want to message sellers easily before buying so that I can ask questions about condition, measurements, etc.
+- As a buyer, I want a short return period so that I don't lose anything if the item isn’t as described or breaks right away.
+- As a buyer, I want to see how buying second-hand helps reduce waste so that I feel good about making an eco-friendly choice.
 
 ### Lenders:
 - As a lender, I want to create detailed listings with accurate labels and multiple photos, so that renters can know exactly what they are renting and have fewer complaints or questions for me.
