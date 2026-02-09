@@ -12,7 +12,7 @@ A little exercise to get started with the specification phase of the software de
 During the interview, a candidate of the "renters" demographic of the app talked about his desire to make use of their unused furniture, earn extra side money, and decrease furniture waste. See the full list of his goals/frustrations below:
 
 **Goals / Needs:**
-- Make use of furniture that would otherwise sit unused while traveling or studying abroa
+- Make use of furniture that would otherwise sit unused while traveling or studying abroad
 - Decrease waste of unused items
 - Earn extra income by renting furniture to other students
 - Make use of furniture items during break times such as winter or summer break
@@ -38,6 +38,21 @@ Interview Subject: A student who has their own production company and often rent
 3. Renters are not responsive, causing difficulties for scheduling pick up and drop off times, and locking in the dates of rentals.
 4. Not a clear or logical label system where the owner doesn’t know how to label their listings, so renters can find them easily.
 
+### Admins:
+Interview subject: A student who is experienced in buying and selling ACG goods and products on a second-hand platform. She addresses some needs and worries that an admin of such platform may have. 
+
+**Goals / Needs:**
+1. Maintain the platform's security and order, make sure there are no scams, counterfeit goods, or prohibited content.
+2. Promptly address reports and disputes, provent users from feeling neglected.
+3. Manage product categories and content quality. Prevent items like “sofas” from appearing in “electronics” listings.
+4. Verify new and suspicious account. Monitor unusually active accounts and duplicate postings.
+
+**Problems / Frustrations**
+1. Too many reports but no prioritization system. The admin cannot keep up with every single one.
+2. Hard to tell who's lying. Buyers claim they are scammed, and sellers say they are unreasonable.
+3. Unclear platform rules leading to a lack of basis when handling disputes.
+4. Too many manual labor when deleting and banning.
+
 ## Product Vision Statement
 
 A peer-to-peer marketplace where college students can buy, sell, rent, and lent second-hand furniture from one another, creating a safe environment for affordable, eco-friendly furnishings.
@@ -56,6 +71,18 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 - As a lender, I want to pay money for promoting my listings, so that I can let more people see my listings and have more rental requests.
 - As a lender, I want a built-in message system that keeps track of all the history of unsent and edited message functions, so that I can document all verbal agreements and communications in one place to protect myself from fraud.
 - As a lender, I want to set my own terms of delivery and pickup policies and post them along with the listings, so that renters know exactly how to receive the item they rented, and it suits my convenience as an owner.
+
+### Admin:
+- As an admin, I want to review reported listings so that I can remove inappropriate or fraudulent content.
+- As an admin, I want to suspend or ban users who violate platform rules so that I can maintain a safe trading environment.
+- As an admin, I want to view a user's posting history so that I can identify suspicious behavior patterns.
+- As an admin, I want to verify student email addresses so that only university members can access the platform.
+- As an admin, I want to review transaction disputes so that I can fairly resolve conflicts between buyers and sellers.
+- As an admin, I want to access chat logs between users (if reported) so that I can investigate potential scams.
+- As an admin, I want to approve or reject new listings before they become visible so that low-quality content does not spread.
+- As an admin, I want to see statistics on reported listings and banned accounts so that I can monitor platform health.
+- As an admin, I want to identify users who post multiple listings in a short time so that I can detect spam behavior.
+- As an admin, I want to edit or update platform rules so that policies remain clear and enforceable.
 
 ## Activity Diagrams
 
