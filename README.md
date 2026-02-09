@@ -98,6 +98,12 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 
 ## Activity Diagrams
 
+### Renters
+**Manage Listing Requests**
+(Manage Listing Requests)[static/listingRequests.png]
+
+**View Your Listings**
+(View Your Listings)[static/viewListing.png]
 
 ## Clickable Prototype
 
